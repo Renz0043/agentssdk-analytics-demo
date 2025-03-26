@@ -1,5 +1,6 @@
 ## 概要
 「OpenAI Agents SDKでAIにWebマーケティングのレポートを任せてみた」という記事のハンズオン用リポジトリです。
+
 記事URLはこちら
 https://editor.note.com/notes/n54bc15263f32/edit
 
