@@ -5,7 +5,6 @@ https://editor.note.com/notes/n54bc15263f32/edit
 
 ## 環境構築の前提条件
 - Pythonがインストールされていること
-- Poetryがインストールされていること
 
 ## セットアップ手順
 
